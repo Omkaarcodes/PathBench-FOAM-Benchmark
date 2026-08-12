@@ -1,0 +1,15 @@
+torch==1.13.1
+numpy<2.0
+matplotlib
+nptyping==1.4.4
+panda3d
+pandas
+scikit-learn
+torchvision
+memory_profiler
+seaborn
+dill
+natsort
+screeninfo
+opencv-python
+lru-dict

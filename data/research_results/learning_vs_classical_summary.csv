@@ -1,0 +1,2 @@
+map_category,algorithm_group,n_runs,success_rate,mean_total_time,mean_total_distance,mean_obstacle_clearance,mean_smoothness
+non_urban,classical,271.0,85.23985239852398,3.9504795584415584,20.208128427014206,3.2679893984038926,0.284797767380682

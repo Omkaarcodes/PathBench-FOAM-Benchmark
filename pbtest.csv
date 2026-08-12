@@ -1,0 +1,3 @@
+Algorithm,Average Path Deviation,Success Rate,Average Time,Average Steps,Average Distance,Average Distance from Goal,Average Original Distance from Goal,Average Trajectory Smoothness,Average Obstacle Clearance,Average Search Space,Average Memory
+A*,0.0,100.0,0.0261,8.71,8.94,0.0,8.01,0.24,3.42,17.21,40.02
+Dijkstra,0.0,100.0,0.0908,8.71,8.94,0.0,8.01,0.12,3.44,49.65,65.44

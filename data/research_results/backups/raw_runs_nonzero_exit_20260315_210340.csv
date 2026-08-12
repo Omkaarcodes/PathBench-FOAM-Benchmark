@@ -1,0 +1,192 @@
+map_name,map_category,trial,algorithm,algorithm_group,is_foam,start_x,start_y,goal_x,goal_y,goal_found,total_time,total_distance,total_steps,smoothness_of_trajectory,obstacle_clearance,distance_to_goal,original_distance_to_goal,map_obstacles_percentage,memory_kib,error
+vin test 8x8 -3,non_urban,1,Potential Field,classical,False,1,7,7,0,True,0.044894,10.656854152679443,10.0,0.31415926193612514,1.5650281539872886,0.0,9.219544410705566,26.5625,134.318,
+Uniform Random Fill,non_urban,1,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,A*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,RT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Wave-front,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Dijkstra,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Potential Field,classical,False,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Probabilistic Foam (GBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Probabilistic Foam (PFM),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Probabilistic Foam (RBPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,1,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,2,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,3,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,4,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,5,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,6,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,7,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,8,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,9,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Uniform Random Fill,non_urban,10,Probabilistic Foam (HPF),classical,True,,,,,False,,,,,,,,,,Map 'Uniform Random Fill' has fewer than 2 valid positions
+Block,non_urban,1,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,A*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,1,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,SPRM,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,1,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,RT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,1,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,RRT,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,1,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,RRT*,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,1,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,2,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,3,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,4,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,5,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,6,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,7,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,8,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,9,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
+Block,non_urban,10,RRT-Connect,classical,False,,,,,False,,,,,,,,,,Map 'Block' has fewer than 2 valid positions
