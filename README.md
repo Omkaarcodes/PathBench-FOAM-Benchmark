@@ -119,15 +119,6 @@ The script will:
 
 Because RRT-Connect crashed intermittently during data collection in the original study, expect some completion errors for that algorithm; these were accounted for when computing success rates.
 
-## Running the Statistical Analysis
-
-Once `raw_runs.csv` is generated (or using the provided dataset), run:
-
-```bash
-cd analysis
-python analyze_results.py
-```
-
 ## Summary of Findings
 
 - **4,081 total simulations** were run across urban and non-urban environments.
