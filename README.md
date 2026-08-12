@@ -128,19 +128,6 @@ cd analysis
 python analyze_results.py
 ```
 
-This script performs:
-- **Chi-squared test of independence** — Algorithm Group vs. Goal Found (success rate)
-- **Two-way ANOVA** — Total Time vs. Group & Map Category
-- **Mann–Whitney U test** — Obstacle Clearance, FOAM vs. Traditional
-
-To regenerate the figures used in the paper (success rate by group/map, log-scaled runtime distribution, obstacle clearance distribution):
-
-```bash
-python plots.py
-```
-
-Output figures are saved to `analysis/figures/`.
-
 ## Summary of Findings
 
 - **4,081 total simulations** were run across urban and non-urban environments.
